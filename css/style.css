@@ -1,0 +1,317 @@
+
+*{
+	margin:0px;
+	padding: 0px;
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+   background:url(../images/walls/stevewall.jpg);
+ rgb(34, 45, 56)
+    padding: 0px;
+    background-size:cover;
+
+}
+.cuerpo{
+    background: rgba(0, 0, 0, 0.81);
+}
+
+h1{
+
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.firma{
+    text-align: right;
+}
+h3{
+    text-align: center;
+}
+hr{
+
+ border-top: 3px solid #5367f5;
+ height: 14px;
+ width: 100px;
+ margin: 0 auto;
+}
+
+label{
+    color: white;
+    font-size: 25px;
+
+}
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
+
+.welcome{
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+/*secciones*/
+.section0{
+    padding: 50px; 
+    color: white;
+    background: ;
+
+}
+.section0-1{
+    background-color:rgba(255, 255, 255, 0.13);
+    position: relative;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+.section1{
+	
+	
+    color: white;
+
+    background-color: rgb(31, 25, 25);
+
+
+
+
+}
+
+
+.textwhite{
+    color: white;
+}
+
+
+
+.section2{
+	
+	
+
+    color: white;
+
+    background-color:#f7f4ef;
+
+}
+
+.section3{
+	
+	
+    color: white;
+
+    text-align: center;
+    background: rgb(34, 45, 56);
+    padding: 50px;
+ 
+
+
+}
+
+.section4{
+	
+
+
+    color: #f1f1f1;
+    font-size: 25px;
+    background-color: #171515;
+    -webkit-box-shadow: 1px -2px 6px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px -2px 6px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px -2px 6px 0px rgba(0,0,0,0.75);
+
+}
+
+
+
+
+
+.col-center{
+    float: none;
+    margin: 0 auto;
+}
+
+
+.textsec0{
+	
+    padding-bottom: 50px;
+    border-radius: 7px;
+    display: none;
+
+}
+.fontbody{
+    font-size: 25px;
+    color: #505050;
+
+
+
+}
+
+.nopadding{
+	padding: 0px;
+	margin: 0px;
+    /*height: 637px;*/
+    width: 100%;
+    /* position: relative;*/
+}
+
+
+.logo1{
+	text-align: center;
+    width: 100%;
+}
+
+
+
+.conicons{
+
+   width: 100%;
+   padding: 0px;
+
+
+}
+
+.fontbody2{
+    font-size: 17px;
+
+    color: white;
+}
+
+.section3-1{
+    background-color: #e8e4dd;
+    padding: 50px;
+
+}
+
+
+.cajaport{
+
+    position: relative;
+}
+
+.textportfolio{
+ position: absolute;
+ top: 3;
+ /* top: 0px; */
+ margin-left: auto;
+ margin-right: auto;
+ left: 0;
+ right: 0;
+ top: 45px;
+ font-size: 60px
+
+}
+
+
+.textprox{
+    text-align: center;
+    font-size: 80px;
+    color: #d0d0d0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.boxprox{
+    position: absolute;
+    margin-left: auto;
+    /* margin-right: auto; */
+    left: 0;
+    right: 0;
+    /* margin: 0 auto; */
+    top: 280px;
+}
+
+
+
+.textfooter{
+    padding: 10px;
+    margin: 0;
+}
+
+.footer{
+    text-align: center;
+}
+
+
+.centrartxt{
+    text-align: center;
+}
+
+
+
+.section0-2{
+    background-color: #f7f4ef;
+    padding: 50px;
+}
+
+.section4-1{
+    background-color:#1e2856;
+    padding: 60px;
+}
+.section6{
+    background-color: rgba(255, 255, 255, 0.13);
+    padding: 60px;
+}
+
+.textquerescont{
+    margin-top: 0px;
+
+}
+
+
+
+.portfwidth{
+    padding: 0;
+    float: left;
+
+}
+
+
+
+
+@media screen and (min-device-width : 320px) 
+and (max-device-width : 736px){  
+ p{
+    font-size: 40px;
+}
+.fontbody{
+
+    font-size: 40px;
+}
+
+h3{
+    font-size: 55px;
+}
+h1{
+    font-size: 50px;
+}
+
+
+.logo2 {
+    text-align: center;
+    width: 60%;
+}
+
+.section4{
+    text-align: center;
+}
+
+    label{
+        font-size: 45px;
+    }
+
+    h1{
+        font-size: 60px;
+    }
+    .fontbody2{
+        font-size: 45px;
+    }
+
+    .form-control{
+        font-size: 41px;
+        height: 75px;
+    }
+  
+    .perfil{width: 100%;}
+}
+
